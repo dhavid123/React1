@@ -8,7 +8,7 @@ const App = () => {
   
   const user = true;
 
-  const SaludoBienvenida = () => <h2 className="text-warning">Bienvenido!</h2>;
+  const SaludoBienvenida = () => <h2 className="text-warning">Mariaaaa!</h2>;
 
   const SaludoDespedida = () => (
     <h2 className="text-secondary">Usuario offline</h2>
